@@ -5,3 +5,8 @@ p {
 body {
  background-color:light-gray
 }
+
+img {
+  border-radius: 50%;
+ 
+}
