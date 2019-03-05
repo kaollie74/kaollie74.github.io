@@ -3,7 +3,9 @@ p {
 }
 
 body {
- background-color:light-gray
+  background: url();
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 img {
