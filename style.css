@@ -1,5 +1,5 @@
 p {
- color: blue;
+ color: orange;
  font-style: italic;
 }
 
@@ -19,13 +19,13 @@ body {
 h2 {
  font-size: 35px;
  font-weight: bold;
- font-style: Helvetica;
+ font-style: italic;
 }
 
 h3 {
  font-size: 25px;
 }
 
-li {
+ul {
  list-style: square;
 }
