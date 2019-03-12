@@ -1,6 +1,7 @@
 p {
  font-style: Helvetica;
  float: left;
+ border: 1px dash black;
 }
 
 body {
