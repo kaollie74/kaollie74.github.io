@@ -10,10 +10,10 @@ body {
 
 .img {
   border-radius: 15px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   border: 3px solid black;
   float: right;
+  width: 100px;
 }
 
 h2 {
