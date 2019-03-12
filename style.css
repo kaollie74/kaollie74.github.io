@@ -1,6 +1,5 @@
 p {
  font-style: Helvetica;
- float: left;
  border: 1px dash black;
 }
 
@@ -31,3 +30,4 @@ h3 {
 ul {
  list-style: square;
 }
+
