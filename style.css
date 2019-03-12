@@ -13,6 +13,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 75%
+  border: 3px solid black;
 }
 
 h2 {
