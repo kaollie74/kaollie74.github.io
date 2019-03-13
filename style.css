@@ -10,7 +10,7 @@ body {
 
 .img {
   border-radius: 10px;
-  margin: auto;
+  margin: 0 auto;
   border: 3px solid black;
   width: 300px;
 }
