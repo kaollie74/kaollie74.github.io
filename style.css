@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
   border: 3px solid black;
   width: 200px;
- padding: auto;
+ padding: 0 auto;
 }
 
 h2 {
