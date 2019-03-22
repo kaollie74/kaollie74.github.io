@@ -9,12 +9,8 @@ body {
   background-repeat: no-repeat;
 }
 
-.img {
-  border-radius: 10px;
-  margin: 0 auto;
-  border: 6px solid black;
-  width: 200px;
-  height: 200px;
+.pic {
+  float: right;
 }
 
 #container {
