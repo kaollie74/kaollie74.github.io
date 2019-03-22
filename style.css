@@ -15,8 +15,11 @@ body {
   border: 6px solid black;
   width: 200px;
   height: 200px;
+}
 
-
+#container {
+ width: 800px;
+	margin: 40px auto 60px
 }
 
 h2 {
@@ -35,4 +38,8 @@ ul {
 
 .date {
  float: right;
+}
+
+#contact-info {
+
 }
