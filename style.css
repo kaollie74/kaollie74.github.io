@@ -58,3 +58,10 @@ ul {
 	font-size: 20px;
 
 }
+
+#summary-content {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+	font-style: italic;
+	font-size: 20px;
+}
