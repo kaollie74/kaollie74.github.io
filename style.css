@@ -20,7 +20,7 @@ body {
 
 #container {
  	width: 800px;
-	margin: 0, center;
+	margin: 0, auto;
 	padding: 0, auto;	
 }
 
@@ -57,6 +57,7 @@ ul {
 	padding: 0 0 32px 0;
 	font-style: Helvetica;
 	font-size: 20px;
+	top: 200px;
 
 }
 
