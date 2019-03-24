@@ -16,7 +16,9 @@ body {
   border: 6px solid black;
   width: 200px;
   height: 200px;
-  float: right;	
+  float: right;
+  position: 0;
+	
 }
 
 #container {
