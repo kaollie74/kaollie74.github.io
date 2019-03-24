@@ -79,5 +79,6 @@ ul {
 	padding: 0 0 32px 0;
 	font-style: Georgia;
 	font-size: 16px;
-	position: 40px;
+	position: relative;
+	top: 30px;
 }
