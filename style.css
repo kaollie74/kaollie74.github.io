@@ -62,7 +62,8 @@ ul {
 	padding: 0 0 32px 0;
 	font-style: Helvetica;
 	font-size: 20px;
-	top: 75px;
+	position: realtive;
+	top 75px;
 
 }
 
