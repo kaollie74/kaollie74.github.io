@@ -13,7 +13,7 @@ body {
 .img {
   border-radius: 10px;
   margin: 0 auto;
-  border: 6px solid black;
+  border: 6px solid red;
   width: 200px;
   height: 200px;
   float: right;
