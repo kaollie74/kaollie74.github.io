@@ -53,10 +53,13 @@ ul {
 	
 }
 
-.date {
+.date-left {
+	float: left;
+}
+
+.date-right {
 	float: right;
-	display: flex;
-  	justify-content: space-between;
+
 }
 
 #summary {
