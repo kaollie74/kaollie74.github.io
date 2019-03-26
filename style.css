@@ -1,6 +1,7 @@
 p {
- font-style: Helvetica;
- display: inline-block;
+	font-style: italic;
+ 	display: inline-block;
+ 	font-size: 32px;	
 }
 
 body {
