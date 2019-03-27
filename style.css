@@ -99,3 +99,8 @@ ul {
 	margin: 10px 0 0 0;
 	padding: 10px 0 0 10px;
 }
+
+#shift-right {
+	margin: 0 0 0 10px;
+	padding: 0 0 0 0;
+}
