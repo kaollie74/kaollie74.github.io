@@ -63,7 +63,7 @@ ul {
 
 .date-right {
 	float: right;
-	margin: 0 auto;
+	margin: 0 10px 0 0;
 	position: relative;
 
 }
